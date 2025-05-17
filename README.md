@@ -14,7 +14,7 @@ SoftSell is a fictional SaaS resale startup. This is a single-page, fully respon
 - Responsive design for all devices
 - SEO meta tags and favicon support
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** React.js + Vite
 - **Styling:** Tailwind CSS
@@ -29,7 +29,7 @@ SoftSell is a fictional SaaS resale startup. This is a single-page, fully respon
 - Added dark mode toggle for better user accessibility
 - Mobile-first responsive layout for better reach
 
-## 🧪 How to Run Locally
+## How to Run Locally
 
 ```bash
 git clone https://github.com/HarshikeshKumar/SoftSell_landing_page.git
